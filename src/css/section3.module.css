@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  /* Adjust the width of the container as needed */
+}
+
+.divimg {
+  /* display: block; */
+  width: 100%;
+  /* height: auto; */
+}
+
+.text {
+  position: absolute;
+  width: 1500px;
+  top: 80%;
+  left: 12%;
+  transform: translate(5%, -50%);
+  color: white; /* Change text color as needed */
+  font-size: 90px; /* Adjust font size as needed */
+  justify-content: right;
+  text-align: right;
+  font-family: "Roboto", sans-serif;
+}
